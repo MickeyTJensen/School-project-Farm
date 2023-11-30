@@ -1,0 +1,26 @@
+1,Horse,8,Mammal,Grass,5,Default description@@@@
+
+2,Cow,6,Mammal,Grass,10,We raise cows for dairy production.@@@@
+
+3,Chicken,2,Bird,Grain,20,We have chickens that lay eggs.@@@@
+
+4,Sheep,4,Mammal,Grass,15,Our sheep provides wool..@@@@
+
+5,Pig,3,Mammal,Vegetables,8,We raise pigs for pork production.@@@@
+
+6,Goat,4,Mammal,Grass,12,We have goats that produce milk and cheese.@@@@
+
+7,Rabbit,1,Mammal,Vegetables,1,We raise rabbits as pets.@@@@
+
+8,Duck,2,Bird,Grain,12,Our ducks are kept for their eggs.@@@@
+
+9,Turkey,2,Bird,Grain,5,We have turkeys for meat production.@@@@
+
+10,Donkey,7,Mammal,Grass,4,We use donkeys for farm work.@@@@
+
+11,Tiger,7,Mammal,Meat,4,Wraaaaarw!@@@@
+
+25,Monkey,2,Monkey,Vegetable,1,Monkey@@@@
+
+27,Lions,2,Mammal,Meat,1,Lion@
+

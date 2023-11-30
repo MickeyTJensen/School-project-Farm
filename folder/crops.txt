@@ -1,0 +1,30 @@
+12,Wheat,Grain,1,Feed to: Chicken
+
+13,Corn,Grain,10,Feed to: Chicken
+
+14,Barley,Grain,5,Feed to: Chicken
+
+15,Oats,Grain,5,Feed to: Chicken
+
+16,Alfalfa,Grass,3,Feed to: Horse
+
+17,Timothy Hay,Grass,4,Feed to: Horse
+
+18,Carrots,Vegetables,6,Feed to: Pig
+
+19,Lettuce,Vegetables,12,Feed to: Pig and Rabbit
+
+20,Soybeans,Grain,14,Feed to: Chicken
+
+21,Rye,Grain,8,Feed to: Chicken
+
+22,Wheat,Grain,1,Feed to: Chicken
+
+23,Red Meat,Meat,10,Feed to: Chicken
+
+24,Chicken,Meat,10,Feed to: Chicken
+
+26,Banana,Vegetable,1,For monkey
+
+28,Wagyu,Meat,1,Fancy meat
+
